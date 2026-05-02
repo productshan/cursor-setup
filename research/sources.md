@@ -15,3 +15,9 @@ Focus: Personal branding & Helping other to growth personal branding on LinkedIn
 Platform: LinkedIn  
 Link: https://www.linkedin.com/in/daniel-murray-marketing
 Focus: Helping other to understand marketing strategy in LinkedIn
+
+## Mischa Collins
+
+Platform: LinkedIn  
+Link: https://www.linkedin.com/in/mischa-collins/
+Focus: Building a personal brand on LinkedIn
