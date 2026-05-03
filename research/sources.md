@@ -43,3 +43,13 @@ Focus: Writing Strategy, Hooks
 Platform: LinkedIn
 Link: https://www.linkedin.com/in/richardvanderblom/
 Focus: social selling, B2B lead generation, LinkedIn algorithm
+
+## Alex Hormozi
+Platform: LinkedIn
+Link: https://www.linkedin.com/in/alexhormozi/
+Focus: offer builder, conversion thinker, value-first marketer
+
+## Dave Gerhardt
+Platform: LinkedIn
+Link: https://www.linkedin.com/in/davegerhardt/
+Focus: community B2B marketing

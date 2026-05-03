@@ -125,10 +125,29 @@ This structure allows for deeper analysis of content patterns and can be used to
 
 ### 8. Richard van der Blom
 
-**Why selected:**
+
 
 * Recognized LinkedIn strategist known for data-driven insights and algorithm research
 * Focuses on B2B growth, social selling, and lead generation rather than personal branding
 * Provides tested frameworks based on large-scale data and real-world experiments
 * Demonstrates how LinkedIn can be used as a measurable business growth engine, not just a content platform
 
+## Two Creators More
+
+### 9. Alex Hormozi
+
+**Why selected:**
+
+* Focuses on value creation, offers, and conversion rather than platform-specific tactics
+* Demonstrates how attention from content can be translated into revenue and business outcomes
+* Uses simple, direct messaging that emphasizes clarity and results
+* Adds a monetization and business perspective to LinkedIn content strategy
+
+### 10. Dave Gerhardt
+
+**Why selected:**
+
+* Experienced B2B marketing operator with a focus on demand generation and pipeline growth
+* Emphasizes building audience and brand as a long-term strategy for revenue
+* Advocates for clear positioning and narrative over random content creation
+* Demonstrates how LinkedIn content fits into a broader B2B marketing system
