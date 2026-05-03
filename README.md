@@ -82,3 +82,53 @@ I then structured the data into an API-like format, including:
 * Engagement strategy and pattern tags
 
 This structure allows for deeper analysis of content patterns and can be used to build a repeatable LinkedIn content playbook for B2B SaaS.
+
+## Adding Mischa Collins to The List
+
+### 4. Mischa Collins
+
+**Why selected:**
+
+* Focuses on founder-led marketing and inbound growth through LinkedIn
+* Emphasizes visibility and consistent content as key drivers of opportunity
+* Shares practical strategies for early-stage growth (e.g., commenting, audience targeting, messaging)
+* Uses personal storytelling to translate experience into actionable insights
+
+## Adding New Creators
+
+### 5. Joe Gannon
+
+**Why selected:**
+
+* Focuses on content systems and structured thinking rather than short-term virality
+* Provides frameworks for hooks, positioning, and content-market fit
+* Emphasizes long-term audience building over chasing engagement metrics
+* Helps founders and creators align their message with audience and platform dynamics
+
+### 6. Jasmin Alić
+
+**Why selected:**
+
+* Specializes in LinkedIn content strategy, copywriting, and audience growth
+* Provides highly tactical insights (hooks, formatting, comment strategy)
+* Emphasizes engagement systems, especially leveraging the comment section as a growth driver
+* Demonstrates how structured content and micro-optimizations improve reach and conversion
+
+### 7. Alex Colhoun
+
+**Why selected:**
+
+* Focuses on content clarity, writing structure, and effective communication
+* Shares practical insights on hooks, readability, and simplifying ideas
+* Emphasizes making content easy to understand and engaging
+* Supports foundational content skills that complement more advanced strategies
+
+### 8. Richard van der Blom
+
+**Why selected:**
+
+* Recognized LinkedIn strategist known for data-driven insights and algorithm research
+* Focuses on B2B growth, social selling, and lead generation rather than personal branding
+* Provides tested frameworks based on large-scale data and real-world experiments
+* Demonstrates how LinkedIn can be used as a measurable business growth engine, not just a content platform
+

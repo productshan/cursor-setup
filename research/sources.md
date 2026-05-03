@@ -21,3 +21,25 @@ Focus: Helping other to understand marketing strategy in LinkedIn
 Platform: LinkedIn  
 Link: https://www.linkedin.com/in/mischa-collins/
 Focus: Building a personal brand on LinkedIn
+
+## Joe Gannon
+
+Platform: LinkedIn
+Link: https://www.linkedin.com/in/joe-gannon/
+Focus: Personal Branding B2B
+
+## Jasmin Alic
+
+Platform: LinkedIn
+Link: https://www.linkedin.com/in/alicjasmin/
+Focus: Personal Branding and Business Coach
+
+## Alex Colhoun
+Platform: LinkedIn
+Link :https://www.linkedin.com/in/alexcolhoun/
+Focus: Writing Strategy, Hooks
+
+## Richard van der Blom
+Platform: LinkedIn
+Link: https://www.linkedin.com/in/richardvanderblom/
+Focus: social selling, B2B lead generation, LinkedIn algorithm
